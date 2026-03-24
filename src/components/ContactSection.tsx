@@ -53,22 +53,22 @@ const ContactSection = () => {
               <Phone className="w-6 h-6 text-primary mt-1 shrink-0" />
               <div>
                 <h4 className="font-heading font-bold text-foreground">Phone</h4>
-                <p className="text-muted-foreground text-sm font-body">+91-93759-60914</p>
-                <p className="text-muted-foreground text-sm font-body">+91-93282-47164</p>
+                <p className="text-muted-foreground text-sm font-body">+91-1234567890</p>
+                {/* <p className="text-muted-foreground text-sm font-body">+91-1234567890</p> */}
               </div>
             </div>
             <div className="flex items-start gap-4">
               <Mail className="w-6 h-6 text-primary mt-1 shrink-0" />
               <div>
                 <h4 className="font-heading font-bold text-foreground">Email</h4>
-                <p className="text-muted-foreground text-sm font-body">sales@mbautomation.co.in</p>
+                <p className="text-muted-foreground text-sm font-body">sales@tritontech.com</p>
               </div>
             </div>
             <div className="flex items-start gap-4">
               <MapPin className="w-6 h-6 text-primary mt-1 shrink-0" />
               <div>
                 <h4 className="font-heading font-bold text-foreground">Address</h4>
-                <p className="text-muted-foreground text-sm font-body">India, Silvassa, Madhya Pradesh</p>
+                <p className="text-muted-foreground text-sm font-body">India</p>
               </div>
             </div>
           </div>
