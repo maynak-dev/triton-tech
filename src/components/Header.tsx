@@ -19,12 +19,12 @@ const Header = () => {
       <div className="container mx-auto flex items-center justify-between py-3 px-4">
         <a href="#" className="flex items-center gap-2">
           <img src={logo} alt="Triton Tech Enterprise" className="h-14 w-auto" />
-          <div className="hidden sm:block">
+          {/* <div className="hidden sm:block">
             <span className="font-heading font-bold text-lg text-foreground leading-tight block">
               TRITON TECH
             </span>
             <span className="text-primary text-xs font-semibold tracking-widest">ENTERPRISE</span>
-          </div>
+          </div> */}
         </a>
 
         <div className="hidden lg:flex items-center gap-6">
